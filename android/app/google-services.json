@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595910023247",
+    "project_id": "flat-chat-app-96de9",
+    "storage_bucket": "flat-chat-app-96de9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595910023247:android:168ff9d24198428cc7323a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAF_8vd7VIu0Y-IuB-nEiictpkHSAQa7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
